@@ -1,16 +1,25 @@
-### Hi there 👋
+### Stop living your fear and start living your dream 😎
 
-<!--
-**lamaNase/lamaNase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>About Me 📌</h1>
+- 👋 I’m Maha Mali
 
-Here are some ideas to get you started:
+- 💻 Computer System Engineering Student @ Birzeit University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Lamazahi40@gmail.com
+
+<br />
+<h3 >SKILLS 😎</h3>
+<h2 >Programming Languages 💻</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&color=FFD43B&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/Java-blue?logo=java&logoColor=white&color=007396&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/C-red?logo=C&logoColor=white&color=EF5350&style=for-the-badge" alt="C">
+</p>
+
+<h4 >Web Development </h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+</p>
+
