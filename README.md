@@ -1,7 +1,7 @@
 ### Stop living your fear and start living your dream 😎
 
 <h1>About Me 📌</h1>
-- 👋 I’m Maha Mali
+- 👋 I’m Lama Naser
 
 - 💻 Computer System Engineering Student @ Birzeit University
 
