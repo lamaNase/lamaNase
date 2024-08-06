@@ -13,9 +13,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&color=007396&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/Java-yellow?logo=Java&logoColor=white&color=FFD43B&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/☕️%20Java-yellow?logo=Java&logoColor=white&color=007733&style=for-the-badge" alt="Java">
   <img src="https://img.shields.io/badge/C-red?logo=C&logoColor=white&color=EF5350&style=for-the-badge" alt="C">
-  <img src="https://img.shields.io/badge/💠%20C++-green?logo=c++&logoColor=white&color=007733&style=for-the-badge" alt="C++">
+  <img src="https://img.shields.io/badge/💠%20C++-green?logo=c++&logoColor=white&color=AAB000&style=for-the-badge" alt="C++">
 </p>
 
 <h4 >Web Development </h4>
